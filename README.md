@@ -88,7 +88,7 @@
 ###
 
 <br clear="both">
-
- <img url="https://raw.githubusercontent.com/rishabhojha880/rishabh146/output/snake.yml" alt="Snake animation" />
+<!-- https://raw.githubusercontent.com/rishabhojha880/rishabh146/main/.github/workflows/snake.yml -->
+ <img url="https://raw.githubusercontent.com/rishabhojha880/rishabh146/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
