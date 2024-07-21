@@ -1,6 +1,6 @@
  <h2 align="left">Hi 👋! My name is rishabh ojha and I'm a devsecops from localhost</h2>
 
-<div >
+<div display="flex" align="center">
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhojha880&show_icons=true&theme=dracula&locale=en&hide_border=false"height="150" alt="stats graph" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhojha880&show_icons=true&layout=compact&theme=dracula&locale=en&hide_border=false" height="150" alt="languages graph" /></p>
 </div>
