@@ -95,6 +95,6 @@
 
 <br clear="both">
 
- <img url="https://raw.githubusercontent.com/rishabhojha880/rishabh146/main/snake.yml" alt="Snake animation" />
+ <img url="https://raw.githubusercontent.com/rishabhojha880/rishabh146/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
