@@ -1,7 +1,8 @@
  <h2 align="left">Hi 👋! My name is rishabh ojha and I'm a devsecops from localhost</h2>
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhojha880&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150"" alt="rohit0235" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhojha880&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhojha880&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150"" alt="rishabhojha880" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhojha880&show_icons=true&locale=en&layout=compact" alt=rishabhojha880&theme=dracula&hide_border=false& height="150" /></p> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhojha880&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
  
